@@ -1,0 +1,9 @@
+{
+  "name": "MaksymBahrov.github.io",
+  "version": "0.0.1",
+  "description": "It is a personal web site of Maksym Bahrov, a full stack developer from Ukraine",
+  "main": "index.js",
+  "repository": "https://github.com/MaksymBahrov/MaksymBahrov.github.io.git",
+  "author": "Maksym Bahrov <37171644+MaksymBahrov@users.noreply.github.com>",
+  "license": "MIT"
+}
