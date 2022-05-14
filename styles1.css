@@ -1,0 +1,42 @@
+* {
+  font-family: 'Roboto Flex', sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+header {
+  background-color: #333;
+  height: 3rem;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+header p {
+  margin: 0;
+  padding: 1rem;
+}
+
+.container {
+  margin: 0 auto;
+  width: 75%;
+  max-width: 1000px;
+  min-width: 300px;
+  text-align: center;
+}
+
+@media (max-width: 425px) {
+  .container {
+    width: 100%;
+  }
+  
+  h1 {
+    font-weight: 600;
+    font-size: 2rem;
+  }
+}
